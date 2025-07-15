@@ -1,7 +1,5 @@
 # AUTOMATED-REPORT-GENERATION
-COMPANY:
-
-CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: AMAN YADAV
 
@@ -12,6 +10,7 @@ NAME: AMAN YADAV
 "DURATION: 6 WEEEKS
 
 *MENTOR: NEELA SANTOSH
+
 The goal of Task 2 was to automate the generation of a PDF report from data stored in a file (specifically, a CSV file). Using Python, I had to read the data, perform basic analysis, and create a formatted PDF report using a library like FPDF or ReportLab.
 
 Tools and Libraries Used:
